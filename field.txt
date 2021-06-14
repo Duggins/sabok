@@ -1,7 +1,7 @@
 = What is system administration?
 
 == Scope
-Describe system administation, the boundaries of the field of system administation, and what fields are adjacent.
+Describe system administration, the boundaries of the field of system administration, and what fields are adjacent.
 
 == Acknowledgements
 
